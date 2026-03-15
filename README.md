@@ -1,4 +1,4 @@
-# NightVault-
+# NightVault
 NightVault Hotel Management Infrastructure on Stellar Open-source, programmable hospitality payments and operations — built for the world, powered by Stellar.
 What is NightVault ?
 NightVault  is an open-source, Web3-native hotel management system built on the Stellar blockchain. It replaces traditional opaque hospitality payment rails — nightly billing, deposit holds, staff payroll, multi-currency settlement — with transparent, low-cost, programmable flows.
